@@ -1,7 +1,7 @@
 # China-Regionalism-SQL
 中国地图区域划分数据Sql
 
-# 数据结构如下
+## 数据结构如下
 
 |id|pid|name|latitude|longitude|
 |:---:|:---:|:---:|:---:|:---:|
